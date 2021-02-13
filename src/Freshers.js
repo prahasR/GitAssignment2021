@@ -4,7 +4,7 @@ export const FRESHERS = [
         name : "Prahas Ranjan",
         image: '/assets/cardImg.jpg',
         branch: "EE1",
-        about: 'I love sketching',
+        about: 'I love sketching and competitive coding.',
         contact: [
             {
                 id: 0,
